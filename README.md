@@ -17,10 +17,10 @@ Scope
 The scope of the project is smart contracts in the repository:
 Contract deployment address:
 Repository
-File:
-yTofu.sol 0xb4c20Bb1C75300Fa724ec3196B5d1C854a7d58a0
-SoyMill.sol 0xaE14db04Dcc3158dDE825Ccc1AcC365A796Fd279
-ySoy.sol 0x57488Fcc3dC72Edb0a4c06a356c2c43C08BdfB42
+File:<br>
+yTofu.sol 0xb4c20Bb1C75300Fa724ec3196B5d1C854a7d58a0<br>
+SoyMill.sol 0xaE14db04Dcc3158dDE825Ccc1AcC365A796Fd279<br>
+ySoy.sol 0x57488Fcc3dC72Edb0a4c06a356c2c43C08BdfB42<br>
 We have scanned this smart contract for commonly known and more specific
 vulnerabilities. Here are some of the commonly known vulnerabilities that are
 considered:
